@@ -95,7 +95,7 @@ Add your UI screenshots here for better presentation
 Ayush Kumar
 Aparajita Shrivastava
 Sanjolee Singh
-Bansika Binoi
+Bansika Bisoi
 📜 License
 
 This project is for academic and research purposes.
